@@ -2,9 +2,9 @@
   "name": "twitter-clone-api",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
-    "start": "NODE_ENV=production node app"
+    "start": "NODE_ENV=production node server"
   },
   "author": "Sven",
   "license": "ISC",
